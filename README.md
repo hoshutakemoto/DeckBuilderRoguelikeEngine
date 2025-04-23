@@ -14,6 +14,17 @@ This project is currently under development and not yet in a playable state.
 
 Its main purpose is to showcase **clean software architecture** principles in the context of a deck-builder roguelike engine.
 
+## 📚 Documentation
+
+
+This project follows principles of **Domain-Driven Design (DDD)** to ensure modularity, testability, and clarity of intent.
+
+To understand how the domain is structured, start here:
+
+- [🧩 Domain Overview](Documents/DomainOverview.md)
+
+More documentation will be added as systems grow.
+
 ## 📜 License
 
 MIT
