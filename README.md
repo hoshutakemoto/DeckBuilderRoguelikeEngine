@@ -17,3 +17,20 @@ Its main purpose is to showcase **clean software architecture** principles in th
 ## 📜 License
 
 MIT
+
+## 📄 Third-party Licenses
+
+This project uses the following open source libraries:
+
+- **Extenject**  
+  © 2010–2021 Modest Tree Media Inc.  
+  Licensed under the [MIT License](https://github.com/svermeulen/Extenject)
+
+- **UniRx**  
+  © 2018 Yoshifumi Kawai (neuecc)  
+  Licensed under the [MIT License](https://github.com/neuecc/UniRx)
+
+- **DoTween**  
+  © Demigiant  
+  Free for commercial and non-commercial use.  
+  [http://dotween.demigiant.com/](http://dotween.demigiant.com/)
