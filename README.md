@@ -17,7 +17,7 @@ This project is currently under development and not yet in a playable state.
 Its main purpose is to showcase **clean software architecture** principles in the context of a deck-builder roguelike engine.
 
 
-# 📦 For Modders
+## 📦 For Modders
 Want to create your own cards, actions, or even systems?
 Start here!
 

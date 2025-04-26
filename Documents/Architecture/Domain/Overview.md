@@ -22,6 +22,8 @@ Why this diagram exists.
 
 ### Features
 
+- [Card](./Card.md)
+
 ### System
 
 - [CommandFramework](./CommandFramework.md)
