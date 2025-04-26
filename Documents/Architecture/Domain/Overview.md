@@ -2,18 +2,15 @@
 
 ```mermaid
 graph TD
-    subgraph Features
-        Room
-    end
-    subgraph System
-        Potion
-        Relic
-        Card
-        CommandFramework
-        DungeonStructure
-        PlayerState
-        PlaySession
-    end
+    Room --> DungeonStructure
+    PlaySession --> DungeonStructure
+    PlayerState --> Card
+    PlayerState --> Relic
+    PlayerState --> Potion
+    CardGame --> Card
+    CardGame --> Relic
+    Character
+    CommandFramework
 ```
 
 ## 🎯 Purpose
